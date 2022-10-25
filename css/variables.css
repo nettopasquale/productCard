@@ -1,0 +1,14 @@
+:root{
+    /* Primary Colors */
+    --creamBG: hsl(30, 38%, 92%);
+    --DarkCyan: hsl(158, 36%, 37%);
+
+    /* Neutral colors */
+    --VeryDarkBlue: hsl(212, 21%, 14%);
+    --DarkGrayishBlue: hsl(228, 12%, 48%);
+    --White: hsl(0, 0%, 100%);
+
+    /* Font */
+    --Montserrat: 'Montserrat', sans-serif;
+    --Fraunces: 'Fraunces', serif;
+}
